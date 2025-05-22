@@ -11,7 +11,6 @@ class Figure
 protected:
 	std::string name = "Фигура";
 	int sides = 0;
-	//bool correct = false;
 
 	virtual bool Check()
 	{
